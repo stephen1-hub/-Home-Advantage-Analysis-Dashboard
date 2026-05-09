@@ -1,0 +1,19 @@
+home-advantage-analysis/
+│
+├── app17.py                     # Main Streamlit application
+├── requirements.txt           # Python dependencies
+├── README.md                  # Project documentation
+├── .gitignore                 # Files to ignore
+│
+├── data/
+│   ├── E0.xlsx                # Premier League dataset
+│   └── D1.xlsx                # Bundesliga dataset
+│
+├── assets/
+│   ├── logo.png               # Optional project logo
+│   └── screenshots/
+│       ├── dashboard.png
+│       └── calibration.png
+│
+└── notebooks/
+    └── home_advantage_analysis.ipynb   # Optional EDA notebook
